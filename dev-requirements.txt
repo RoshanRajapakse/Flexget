@@ -15,7 +15,7 @@ colorama==0.4.6 ; python_version >= "3.7" and python_version < "4.0" and os_name
 commonmark==0.9.1 ; python_version >= "3.7" and python_version < "4.0"
 coverage==6.5.0 ; python_version >= "3.7" and python_version < "4.0"
 coverage[toml]==6.5.0 ; python_version >= "3.7" and python_version < "4.0"
-cryptography==38.0.4 ; python_version >= "3.7" and python_version < "4.0" and sys_platform == "linux"
+cryptography==41.0.0 ; python_version >= "3.7" and python_version < "4.0" and sys_platform == "linux"
 dill==0.3.6 ; python_version >= "3.7" and python_version < "4.0"
 distlib==0.3.6 ; python_version >= "3.7" and python_version < "4.0"
 docutils==0.19 ; python_version >= "3.7" and python_version < "4.0"
